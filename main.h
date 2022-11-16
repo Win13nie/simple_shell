@@ -35,7 +35,7 @@
 #define HIST_MAX	4096
 
 extern char **environ;
-
+int betty(void);
 
 /**
  * struct liststr - singly linked list

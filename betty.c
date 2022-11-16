@@ -8,7 +8,7 @@
  */
 
 
-int main(void)
+int betty(void)
 {
 	int i;
 
