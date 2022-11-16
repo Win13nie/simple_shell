@@ -10,5 +10,6 @@
 #include <elf.h>
 #include <sys/wait.h>
 
+char *get_location(char *command);
 
 #endif
