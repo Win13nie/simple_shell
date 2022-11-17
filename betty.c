@@ -2,7 +2,7 @@
 
 
 /**
- * main - fizzbuzz test
+ * betty - fizzbuzz test
  *
  * Return: always (0)
  */
